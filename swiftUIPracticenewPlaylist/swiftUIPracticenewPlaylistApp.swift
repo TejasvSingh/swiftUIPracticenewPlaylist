@@ -11,7 +11,7 @@ import SwiftUI
 struct swiftUIPracticenewPlaylistApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ContextMenuView ()
         }
     }
 }
